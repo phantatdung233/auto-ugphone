@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tool UGPhone (Encode)
+// @name         Tool UGPhone
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Tool UGPhone
