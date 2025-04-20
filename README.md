@@ -10,7 +10,7 @@ Auto Ugphone - Công cụ hỗ trợ người già, bà bầu và trẻ em!
 
 [Download Tampermonkey Cho Điện Thoại](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn)
 
-Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Bypass: [Install Bypass](https://github.com/phantatdung233/auto-ugphone/raw/main/tampermonkey.user.js)
+Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool Auto: [Install Tool](https://github.com/phantatdung233/auto-ugphone/raw/main/tampermonkey.user.js)
 
 > [!NOTE]
 > Tải tampermonkey -> Bấm vào link cài đặt -> Vào trang login của ugphone -> Tick full chức năng -> Điền link LocalStorage và trải nghiệm
