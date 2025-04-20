@@ -13,7 +13,7 @@ Auto Ugphone - Công cụ hỗ trợ người già, bà bầu và trẻ em!
 Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Bypass: [Install Bypass](https://github.com/phantatdung233/auto-ugphone/raw/main/tampermonkey.user.js)
 
 > [!NOTE]
-> Tải tampermonkey -> Bấm vào link cài đặt -> Vào link cần vượt -> Tick full chức năng -> Các lần sau đó khi vào link sẽ tự bypass
+> Tải tampermonkey -> Bấm vào link cài đặt -> Vào link cần vượt -> Tick full chức năng -> Điền link LocalStorage và trải nghiệm
 
 ![Tutorial](https://img.upanh.tv/2025/04/20/Screenshot-2025-04-20-062123.png)
 
